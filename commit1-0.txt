@@ -1,2 +1,3 @@
 "test content of 1.0 branch"
 "new changes in 1.0" 
+"new change in 1.0" 
