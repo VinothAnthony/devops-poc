@@ -23,7 +23,7 @@
 			<id>nexus</id>
 			<name>Local Nexus snapshots Repository</name>
 			<url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
-		</snapshotRepository>
+	</snapshotRepository>
 	
    </distributionManagement>
 
